@@ -6,7 +6,7 @@ public class Source {
 		StringPlay sp=new StringPlay();
 		System.out.println(sm.getMax(sp,"fgfgfgf",'g'));
 		System.out.println(sm.convertToInt(sp,"123"));
-          System.out.println("2");
+          System.out.println("9");
 	}
 
 }
